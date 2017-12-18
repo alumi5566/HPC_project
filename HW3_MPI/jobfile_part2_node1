@@ -1,0 +1,13 @@
+
+#PBS -l nodes=1:ppn=32,walltime=00:05:00
+#PBS -N prime_3_node_1
+#PBS -M cyu059@ucr.edu
+#PBS -m abe
+
+module load gcc-4.7.2
+module load mvapich2-1.9a2/gnu-4.6.2
+
+PBS_JOB_PATH=/home/cyu059/HW3_1120/
+cd $PBS_JOB_PATH
+
+mpirun ./prime_3 10000000000 1 >> results

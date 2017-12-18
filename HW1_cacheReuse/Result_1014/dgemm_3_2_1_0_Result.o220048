@@ -1,0 +1,90 @@
+=====dgemm0:=====n=2046
+	took 241644.546875	milli-sec
+	Gflops = 0.071077
+=====dgemm1:=====n=2046
+	took 208374.578125	milli-sec
+	Gflops = 0.082206
+	correctness verify error= 0
+=====dgemm2:=====n=2046
+	took 96560.015625	milli-sec
+	Gflops = 0.177398
+	correctness verify error= 0
+=====dgemm3:=====n=2046
+	took 21873.605469	milli-sec
+	Gflops = 0.783117
+	correctness verify error= 0
+=====dgemm0:=====n=1020
+	took 17836.810547	milli-sec
+	Gflops = 0.117912
+=====dgemm1:=====n=1020
+	took 11036.726562	milli-sec
+	Gflops = 0.192305
+	correctness verify error= 0
+=====dgemm2:=====n=1020
+	took 5108.878906	milli-sec
+	Gflops = 0.415437
+	correctness verify error= 0
+=====dgemm3:=====n=1020
+	took 3157.108887	milli-sec
+	Gflops = 0.672266
+	correctness verify error= 0
+=====dgemm0:=====n=510
+	took 1685.822998	milli-sec
+	Gflops = 0.132651
+=====dgemm1:=====n=510
+	took 1126.313965	milli-sec
+	Gflops = 0.235549
+	correctness verify error= 0
+=====dgemm2:=====n=510
+	took 449.518005	milli-sec
+	Gflops = 0.590192
+	correctness verify error= 0
+=====dgemm3:=====n=510
+	took 327.458008	milli-sec
+	Gflops = 0.810186
+	correctness verify error= 0
+=====dgemm0:=====n=252
+	took 217.600006	milli-sec
+	Gflops = inf
+=====dgemm1:=====n=252
+	took 136.285995	milli-sec
+	Gflops = 0.234845
+	correctness verify error= 0
+=====dgemm2:=====n=252
+	took 53.805000	milli-sec
+	Gflops = 0.594852
+	correctness verify error= 0
+=====dgemm3:=====n=252
+	took 41.065979	milli-sec
+	Gflops = 0.779380
+	correctness verify error= 0
+=====dgemm0:=====n=126
+	took 23.398001	milli-sec
+	Gflops = inf
+=====dgemm1:=====n=126
+	took 16.090000	milli-sec
+	Gflops = 0.248648
+	correctness verify error= 0
+=====dgemm2:=====n=126
+	took 6.305000	milli-sec
+	Gflops = 0.634536
+	correctness verify error= 0
+=====dgemm3:=====n=126
+	took 4.514000	milli-sec
+	Gflops = 0.886299
+	correctness verify error= 0
+=====dgemm0:=====n=60
+	took 2.529000	milli-sec
+	Gflops = inf
+=====dgemm1:=====n=60
+	took 1.545000	milli-sec
+	Gflops = 0.279612
+	correctness verify error= 0
+=====dgemm2:=====n=60
+	took 0.606000	milli-sec
+	Gflops = 0.712871
+	correctness verify error= 0
+=====dgemm3:=====n=60
+	took 0.460000	milli-sec
+	Gflops = 0.939130
+	correctness verify error= 0

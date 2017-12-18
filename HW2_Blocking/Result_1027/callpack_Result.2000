@@ -1,0 +1,21 @@
+	correctness Mya & a(reverse)
+	oops!!!!!!!! error= 153
+	correctness Myb & b
+	correctness verify error= 0
+	correctness Blocka & Mya
+	correctness verify error= 0
+	correctness Blockb & b
+	correctness verify error= 0
+	N = 2000
+LAPCKE:
+	took 3889.895020	milli-sec
+	took 17.131001	milli-sec
+	Gflops = 1.369189
+my:
+	took 6720.421875	milli-sec
+	took 30.225000	milli-sec
+	Gflops = 0.792510
+Blocked:
+	took 2759.319092	milli-sec
+	took 8.574000	milli-sec
+	Gflops = 1.930187

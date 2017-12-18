@@ -1,0 +1,12 @@
+=====Block_1:=====n=2048
+	took 336420.187500	milli-sec
+	Gflops = 0.051131
+=====ijk:=====n=2048
+	correctness verify error= 0
+	took 351372.843750	milli-sec
+	Gflops = 0.048894
+=====Block_2:=====n=2048 B=64
+=====ijk:=====n=2048
+	took 10843.834961	milli-sec
+	Gflops = 1.584298
+	correctness verify error= 0

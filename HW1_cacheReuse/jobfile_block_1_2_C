@@ -1,0 +1,14 @@
+
+#PBS -l nodes=1:ppn=1,walltime=03:00:00
+#PBS -N block_1_2_C_Result
+#PBS -M cyu059@ucr.edu
+#PBS -m abe
+
+module load gcc-4.6.2
+module load mvapich2-1.9a2/gnu-4.6.2
+
+PBS_JOB_PATH=/home/cyu059/HW1_1012
+cd $PBS_JOB_PATH
+
+mpirun ./block_1_2_kij_ikj
+

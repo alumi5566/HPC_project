@@ -1,0 +1,66 @@
+=====dgemm0:=====n=2048
+	took 701097.750000	milli-sec
+	Gflops = 0.024508
+=====dgemm1:=====n=2048
+	took 451838.625000	milli-sec
+	Gflops = 0.038022
+	correctness verify error= 0
+=====dgemm2:=====n=2048
+	took 178313.687500	milli-sec
+	Gflops = 0.096346
+	correctness verify error= 0
+=====dgemm0:=====n=1024
+	took 25120.128906	milli-sec
+	Gflops = 0.085899
+=====dgemm1:=====n=1024
+	took 17574.593750	milli-sec
+	Gflops = 0.122193
+	correctness verify error= 0
+=====dgemm2:=====n=1024
+	took 6969.108887	milli-sec
+	Gflops = 0.308143
+	correctness verify error= 0
+=====dgemm0:=====n=512
+	took 2851.117920	milli-sec
+	Gflops = 0.089478
+=====dgemm1:=====n=512
+	took 2081.761963	milli-sec
+	Gflops = 0.128946
+	correctness verify error= 0
+=====dgemm2:=====n=512
+	took 728.062012	milli-sec
+	Gflops = 0.368699
+	correctness verify error= 0
+=====dgemm0:=====n=256
+	took 265.161987	milli-sec
+	Gflops = inf
+=====dgemm1:=====n=256
+	took 163.266998	milli-sec
+	Gflops = 0.205519
+	correctness verify error= 0
+=====dgemm2:=====n=256
+	took 53.576000	milli-sec
+	Gflops = 0.626296
+	correctness verify error= 0
+=====dgemm0:=====n=128
+	took 29.474001	milli-sec
+	Gflops = inf
+=====dgemm1:=====n=128
+	took 20.389999	milli-sec
+	Gflops = 0.205704
+	correctness verify error= 0
+=====dgemm2:=====n=128
+	took 6.727000	milli-sec
+	Gflops = 0.623503
+	correctness verify error= 0
+=====dgemm0:=====n=64
+	took 3.322000	milli-sec
+	Gflops = inf
+=====dgemm1:=====n=64
+	took 2.284000	milli-sec
+	Gflops = 0.229548
+	correctness verify error= 0
+=====dgemm2:=====n=64
+	took 0.841000	milli-sec
+	Gflops = 0.623410
+	correctness verify error= 0

@@ -1,0 +1,74 @@
+=====Block_1:=====n=2048
+	took 325627.687500	milli-sec
+	Gflops = 0.052699
+=====ijk:=====n=2048
+	correctness verify error= 0
+	took 325870.468750	milli-sec
+	Gflops = 0.052720
+=====jik:=====n=2048
+	took 311259.531250	milli-sec
+	Gflops = 0.055195
+	correctness verify error= 0
+=====Block_2:=====n=2048 B=10
+=====ijk:=====n=2048
+	took 125981.562500	milli-sec
+	Gflops = 0.136368
+	correctness verify error= 0
+=====jik:=====n=2048
+	took 311459.406250	milli-sec
+	Gflops = 0.055159
+	correctness verify error= 0
+=====Block_2:Change B=====n=2048 B=2
+=====ijk:=====n=2048
+	took 241584.125000	milli-sec
+	Gflops = 0.071113
+	correctness verify error= 0
+=====jik:=====n=2048
+	took 267758.843750	milli-sec
+	Gflops = 0.064162
+	correctness verify error= 0
+=====Block_2:Change B=====n=2048 B=16
+=====ijk:=====n=2048
+	took 123307.906250	milli-sec
+	Gflops = 0.139325
+	correctness verify error= 0
+=====jik:=====n=2048
+	took 126704.703125	milli-sec
+	Gflops = 0.135590
+	correctness verify error= 0
+=====Block_2:Change B=====n=2048 B=32
+=====ijk:=====n=2048
+	took 113556.750000	milli-sec
+	Gflops = 0.151289
+	correctness verify error= 0
+=====jik:=====n=2048
+	took 118811.367188	milli-sec
+	Gflops = 0.144598
+	correctness verify error= 0
+=====Block_2:Change B=====n=2048 B=64
+=====ijk:=====n=2048
+	took 111124.734375	milli-sec
+	Gflops = 0.154600
+	correctness verify error= 0
+=====jik:=====n=2048
+	took 113803.218750	milli-sec
+	Gflops = 0.150961
+	correctness verify error= 0
+=====Block_2:Change B=====n=2048 B=256
+=====ijk:=====n=2048
+	took 173322.859375	milli-sec
+	Gflops = 0.099121
+	correctness verify error= 0
+=====jik:=====n=2048
+	took 175537.703125	milli-sec
+	Gflops = 0.097870
+	correctness verify error= 0
+=====Block_2:Change B=====n=2048 B=512
+=====ijk:=====n=2048
+	took 209591.015625	milli-sec
+	Gflops = 0.081969
+	correctness verify error= 0
+=====jik:=====n=2048
+	took 191358.203125	milli-sec
+	Gflops = 0.089779
+	correctness verify error= 0
